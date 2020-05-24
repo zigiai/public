@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  height="200" width="560" viewBox="0 0 56 20"
+  font-family="Roboto, sans-serif" font-weight="900">
+  <text x="2" y="15" fill="#3D3BAF">ZIGI</text>
+  <circle cx="35.2" cy="14" r="1.2" fill="#FCA238"/>
+  <text x="38" y="15" fill="#3D3BAF">AI</text>
+</svg>
